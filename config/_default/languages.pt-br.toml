@@ -1,0 +1,63 @@
+languageCode = "pt"
+languageName = "Portugues"
+displayName = "PT"
+isoCode = "pt"
+weight = 1
+rtl = false
+
+title = "Cabrals Blog"
+#logo = "img/Cabrals.png"
+description = "Blog do Cabral"
+copyright = "©Cabral-2023"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "João Victor Cabral de Melo"
+  image = "img/eu.jpg"
+  headline = "Engenheiro de Software movido a Redbull :cat_with_wry_smile::fox:"
+  bio = "Desenvolvedor com uma paixão por backend e no seu tempo livro fica jogando xadrez, tocando a guitarra ou violão e indo para academia"
+  links = [
+#      { email = "joao.victor.cabralmelo@gmail.com" },
+#     { link = "https://link-to-some-website.com/" },
+#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { apple = "https://www.apple.com" },
+#     { blogger = "https://username.blogspot.com/" },
+#     { codepen = "https://codepen.io/username" },
+      { dev = "https://dev.to/joaovictorcabraldemelo" },
+#     { discord = "https://discord.gg/invitecode" },
+#     { dribbble = "https://dribbble.com/username" },
+#     { facebook = "https://facebook.com/username" },
+#     { flickr = "https://www.flickr.com/photos/username/" },
+#     { foursquare = "https://foursquare.com/username" },
+      { github = "https://github.com/JoaoVictorCabraldeMelo" },
+      { gitlab = "https://gitlab.com/JoaoVictorCabraldeMelo" },
+#     { google = "https://www.google.com/" },
+#     { hashnode = "https://username.hashnode.dev" },
+      { instagram = "https://instagram.com/joaovictorcdemelo" },
+#     { keybase = "https://keybase.io/username" },
+#     { kickstarter = "https://www.kickstarter.com/profile/username" },
+#     { lastfm = "https://lastfm.com/user/username" },
+      { linkedin = "https://linkedin.com/in/joão-victor-cabral-de-melo" },
+#     { mastodon = "https://mastodon.instance/@username" },
+#     { medium = "https://medium.com/username" },
+#     { microsoft = "https://www.microsoft.com/" },
+#     { orcid = "https://orcid.org/userid" },
+#     { patreon = "https://www.patreon.com/username" },
+#     { pinterest = "https://pinterest.com/username" },
+#     { reddit = "https://reddit.com/user/username" },
+#     { researchgate = "https://www.researchgate.net/profile/username" },
+#     { slack = "https://workspace.url/team/userid" },
+#     { snapchat = "https://snapchat.com/add/username" },
+#     { soundcloud = "https://soundcloud.com/username" },
+#     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+#     { steam = "https://steamcommunity.com/profiles/userid" },
+#     { telegram = "https://t.me/username" },
+#     { tiktok = "https://tiktok.com/@username" },
+#     { tumblr = "https://username.tumblr.com" },
+#     { twitch = "https://twitch.tv/username" },
+      { twitter = "https://twitter.com/MolinesiaCabral" },
+#     { whatsapp = "https://wa.me/phone-number" },
+#     { youtube = "https://youtube.com/username" },
+#     { ko-fi = "https://ko-fi.com/username" },
+]
