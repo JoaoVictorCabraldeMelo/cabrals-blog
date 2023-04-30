@@ -14,9 +14,9 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "João Victor Cabral de Melo"
-  image = "img/eu.jpg"
-  headline = "Engenheiro de Software movido a Redbull :cat_with_wry_smile::fox:"
-  bio = "Desenvolvedor com uma paixão por backend e no seu tempo livro fica jogando xadrez, tocando a guitarra ou violão e indo para academia"
+  image = "img/EU2.jpeg"
+  headline = "Engenheiro de Software com amor pelo backend e pelo paradigma funcional :cat_with_wry_smile::fox:"
+  bio = "Profissionalmente desenvolvo softwares e sistemas baseados em nuvem. No meu tempo livro gosto de jogar xadrez, tocar guitarra ou violão, ir para academia e sair com meus amigos"
   links = [
 #      { email = "joao.victor.cabralmelo@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },

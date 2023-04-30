@@ -8,8 +8,13 @@ showAuthor: false
 showDate: false
 ---
 
-Desenvolvedor de software com paixão pelo backend mas também possuindo outros projetinhos que eu fico mechendo no meu tempo livre.
-Também curto jogar xadrezinho com meus amigos :chess_pawn:, tocar violão ou a guitarra :guitar:  e ir levantar uns pesos :fire:.
+Começei minha jornada como desenvolvedor de software em 2016 quando entrei na faculdade de Brasília(UnB) em Ciência da Computação. Então comecei tendo paixão por alguns tópicos na minha faculdade como Estrutura de Dados e Lógica Computacional. Lá onde acabei entrando no movimento MEJ(Movimento Empresa Júnior) aonde conheci pessoas que me ajudaram bastante em toda minha jornada. Meu objetivo com este projeto é agora ajudar pessoas que estão passando pela mesma situação que passei 
+como também oferecer um suporte para aqueles que precisarem.
+
+:grinning_face_with_smiling_eyes:
+:green_heart:
+:sparkles:
+
 
 {{< lead >}}
 {{< typeit lyfeLike=50 >}}
