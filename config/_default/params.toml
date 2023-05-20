@@ -46,8 +46,8 @@ disableImageOptimization = false
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateUpdated = false
   showAuthor = true
   showHero = true
@@ -78,8 +78,8 @@ disableImageOptimization = false
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showSummary = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = false
   showCards = false
   groupByYear = true
@@ -112,13 +112,13 @@ disableImageOptimization = false
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyBAkHMOkt01r7XQk-Jo_oAu6zr-T4j5X0s"
+  authDomain = "cabralsblog.firebaseapp.com"
+  projectId = "cabralsblog"
+  storageBucket = "cabralsblog.appspot.com"
+  messagingSenderId = "476728859214"
+  appId = "1:476728859214:web:4e51238727bc4c1eb2011f"
+  measurementId = "G-91F3BH263V"
 
 [fathomAnalytics]
   # site = "ABC12345"
